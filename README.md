@@ -77,7 +77,9 @@ Using stakeholder insights, HRIS data, employee engagement surveys, and external
 - Traditional indicators such as compensation, engagement scores, work-life balance, and performance ratings did not fully explain employee exits.
 - The analysis suggested that additional factors—such as career mobility, promotion pathways, and labor-market competition—should be incorporated into future workforce strategies.
 
-  ![PowerBI Dashboard](leadership-attrition-analysis/PowerBI-dashboard/engagementcorrelation.png)
+### PowerBI Dashboard
+  
+  ![](leadership-attrition-analysis/PowerBI-dashboard/engagementcorrelation.png)
   ![](leadership-attrition-analysis/PowerBI-dashboard/exits-attrition-rate-tenure.png)
   ![](leadership-attrition-analysis/PowerBI-dashboard/exits-department.png)
   ![](leadership-attrition-analysis/PowerBI-dashboard/exits-tenure.png)
